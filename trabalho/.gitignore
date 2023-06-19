@@ -1,0 +1,18 @@
+/bin/
+.gradle/
+.idea/
+/build/
+/.settings/
+/generated/
+/run/
+gradle*
+out/
+guidelines/
+
+.DS_Store
+
+tmp/
+
+# Class files
+**/*.class
+!libs-jmm/**/*.class
